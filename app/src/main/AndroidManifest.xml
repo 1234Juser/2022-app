@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.cookandroid.capstone2">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher_logo"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Capstone2">
+
+        <activity
+            android:name=".IntroActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!--
+             TODO: Before you run your application, you need a Google Maps API key.
+
+             To get one, follow the directions here:
+
+                https://developers.google.com/maps/documentation/android-sdk/get-api-key
+
+             Once you have your API key (it starts with "AIza"), define a new property in your
+             project's local.properties file (e.g. MAPS_API_KEY=Aiza...), and replace the
+             "YOUR_API_KEY" string in this file with "${MAPS_API_KEY}".
+        -->
+        <meta-data
+            android:name="com.google.android.geo.API_KEY"
+            android:value="AIzaSyCue4V3JCNYjB13KbryvbbTK1a3n9E7mk0" />
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+        <activity
+            android:name=".MapsActivity"
+            android:exported="false"
+            android:label="@string/title_activity_maps" />
+        <activity
+            android:name=".Lunchroom"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebene"
+            android:exported="false" />
+        <activity
+            android:name=".Haehwa"
+            android:exported="false" />
+        <activity
+            android:name=".Haehwajjigae"
+            android:exported="false" />
+        <activity
+            android:name=".Hawhwadon"
+            android:exported="false" />
+        <activity
+            android:name=".Haehwarice"
+            android:exported="false" />
+        <activity
+            android:name=".Hawhwaramen"
+            android:exported="false" />
+        <activity
+            android:name=".Cafe"
+            android:exported="false" />
+        <activity
+            android:name=".Cafeshake"
+            android:exported="false" />
+        <activity
+            android:name=".Cafesmoothie"
+            android:exported="false" />
+        <activity
+            android:name=".Cafejuice"
+            android:exported="false" />
+        <activity
+            android:name=".Cafefrappe"
+            android:exported="false" />
+        <activity
+            android:name=".Cafeade"
+            android:exported="false" />
+        <activity
+            android:name=".Cafetea"
+            android:exported="false" />
+        <activity
+            android:name=".Cafelatte"
+            android:exported="false" />
+        <activity
+            android:name=".Cafecoffee"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebenesmoothie"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebenejuice"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebenetea"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebeneade"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebenenoncoffee"
+            android:exported="false" />
+        <activity
+            android:name=".Cafebenecoffee"
+            android:exported="false" />
+        <activity
+            android:name=".AfterActivity"
+            android:exported="false"/>
+    </application>
+
+</manifest>

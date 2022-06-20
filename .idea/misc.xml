@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_after_login.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafe.xml" value="0.2" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafe_bene.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafeade.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebeneade.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebenecoffee.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebenejuice.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebenenoncoffee.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebenesmoothie.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebenesmotthie.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafebenetea.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafecoffee.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafefrappe.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafejuice.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafelatte.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafeshake.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafesmoothie.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_cafetea.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_haehwa.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_haehwadon.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_haehwajjigae.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_haehwarice.xml" value="0.23489583333333333" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_haehwedon.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_hawhwaramen.xml" value="0.1" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_hawhwejjigae.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_hawhweramen.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_intro.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_lunchroom.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_main.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_map.xml" value="0.23489583333333333" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/activity_maps.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/haehwaramen.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/hawhwarice.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/layout/hawhwedon.xml" value="0.24947916666666667" />
+        <entry key="..\:/AndroidWorkspace/Capstone2/app/src/main/res/menu/menu_bottom.xml" value="0.24947916666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

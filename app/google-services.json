@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "474286027225",
+    "project_id": "logintest-1cebb",
+    "storage_bucket": "logintest-1cebb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:474286027225:android:afea62006cfee16df1e9c8",
+        "android_client_info": {
+          "package_name": "com.cookandroid.capstone2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "474286027225-vl43ci4q84rrr72hq3pthd1fvqlr0g5m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cookandroid.capstone2",
+            "certificate_hash": "884618b47b5c43bc188f3c17a5e3fe92c64e2905"
+          }
+        },
+        {
+          "client_id": "474286027225-9h8rcfg0h3dde59vjp3qdj7m9q9mdv01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGM1ZKHjpts7M5KF_knK84phBaU1tMp1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "474286027225-9h8rcfg0h3dde59vjp3qdj7m9q9mdv01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

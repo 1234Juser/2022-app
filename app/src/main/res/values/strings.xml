@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">대전대음식점앱</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>
