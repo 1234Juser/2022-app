@@ -29,5 +29,6 @@ Open cv,
 
 <img src ="https://github.com/user-attachments/assets/e16e6919-bd56-4070-9c2a-70f68f369421">
 
+![인원체크압축영상1](https://github.com/user-attachments/assets/e16e6919-bd56-4070-9c2a-70f68f369421)
 
 
