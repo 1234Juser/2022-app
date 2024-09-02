@@ -27,7 +27,7 @@ Open cv,
 
 ![image](https://github.com/1234jung/2022-app/assets/93902468/afed57a3-3cb5-48d0-8983-908f022a9282)
 
-<img src ="https://github.com/user-attachments/assets/ba19ac34-ab38-4d97-ba80-93fabbbbda1f">
+<img src ="https://github.com/user-attachments/assets/b850c97b-b5d8-4c2c-b6f7-a6c042692abd">
 
 
 
